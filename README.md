@@ -1,7 +1,7 @@
 # VSCode TODO List
 
 <div style="width: 100px;">
-    <img src="media/logo.svg" alt="Logo" width="100" />
+    <img src="media/logo.png" alt="Logo" width="100" />
 </div>
 A simple TODO list within VS Code
 

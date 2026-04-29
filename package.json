@@ -9,6 +9,14 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zibuyin/VSCode-Todo.git"
+  },
+  "homepage": "https://github.com/zibuyin/VSCode-Todo",
+  "bugs": {
+    "url": "https://github.com/zibuyin/VSCode-Todo/issues"
+  },
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
