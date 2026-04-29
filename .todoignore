@@ -1,0 +1,10 @@
+# Folders ignored by vscode-todo scanner
+# One folder or glob pattern per line
+
+node_modules
+.git
+dist
+out
+libs
+coverage
+build

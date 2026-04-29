@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+
+## [1.0.0] - 2026-4-29
+
+- Manual TODO Add within command pallet
+- Side panel showing todo list
+- Auto `# TODO` and `// TODO` detection
+- .todoignore sets ignored files / dir
