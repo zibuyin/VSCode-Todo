@@ -1,8 +1,9 @@
 {
-  "name": "vscode-todo",
-  "displayName": "VSCode Todo",
+  "name": "vscode-todo-list-nathanyin",
+  "displayName": "VSCode TODO List",
   "description": "A simple todo for VSCode",
   "version": "0.0.1",
+  "publisher": "NathanYin",
   "engines": {
     "vscode": "^1.116.0"
   },

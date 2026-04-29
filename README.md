@@ -4,7 +4,7 @@
     <img src="media/logo.png" alt="Logo" width="100" />
 </div>
 A simple TODO list within VS Code
-
+> It is designed to help developers (like me) to keep track of features we have to add, bugs we have to fix... Organising them instead of having random `# TODO` around the codebase
 ## Features
 
 - Sidebar TODO panel with a live count badge.
